@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8f98aa27-6e02-4d91-9993-0625dbd1b537": {
+      "ProjectGuid": "8f98aa27-6e02-4d91-9993-0625dbd1b537",
+      "DisplayName": "SSO.Api",
+      "ColorIndex": 0
+    },
+    "c88ee159-e8f3-41e2-b1d0-d0b2893cb1b0": {
+      "ProjectGuid": "c88ee159-e8f3-41e2-b1d0-d0b2893cb1b0",
+      "DisplayName": "SSO.Infra",
+      "ColorIndex": 1
+    },
+    "5012de26-323f-47bd-9403-9387ed0e66af": {
+      "ProjectGuid": "5012de26-323f-47bd-9403-9387ed0e66af",
+      "DisplayName": "SSO.Domain",
+      "ColorIndex": 2
+    },
+    "ced8fe26-8476-4fb3-bbdc-746aa388530d": {
+      "ProjectGuid": "ced8fe26-8476-4fb3-bbdc-746aa388530d",
+      "DisplayName": "SSO.Integration.Test",
+      "ColorIndex": 3
+    },
+    "a4904c04-27a5-48c5-9fe8-4ab887255292": {
+      "ProjectGuid": "a4904c04-27a5-48c5-9fe8-4ab887255292",
+      "DisplayName": "SSO.Unit.Test",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "732ce4a4-3771-4789-96f8-eff2af50abfb": {
+      "ProjectGuid": "732ce4a4-3771-4789-96f8-eff2af50abfb",
+      "DisplayName": "SSO.Core.Test",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

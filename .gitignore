@@ -1,0 +1,13 @@
+/.vscode
+/src/SSO.Api/bin/Debug/net6.0
+/src/SSO.Api/obj
+/src/SSO.Domain/bin
+/src/SSO.Domain/obj
+/src/SSO.Infra/bin
+/src/SSO.Infra/obj
+/test/SSO.Core.Test/bin
+/test/SSO.Core.Test/obj
+/test/SSO.Integration.Test/bin
+/test/SSO.Integration.Test/obj
+/test/SSO.Unit.Test/bin
+/test/SSO.Unit.Test/obj
